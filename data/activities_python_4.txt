@@ -21,7 +21,7 @@
 374278	Recent deposits.
 374252	No thank you.
 374293	I want to check my account.
-374220	Balance.
+374220	Balance.  
 374200	Need help with something else.
 374287	Automatic. <MUSIC>
 374241	Stop a payment.
