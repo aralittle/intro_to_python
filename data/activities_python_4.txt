@@ -1,17 +1,17 @@
-374216	No* thank* you*.    That's* it*.   
+374216	No* thank* you*. That's* it*. 
 374215	Representative.
-374214	Balance info.   
+374214	Balance info. 
 374298	My last deposit in*.
 374297	Automated system.
-374275	   Balance.
-374245	   No, that's it.
+374275	 Balance.
+374245	 No, that's it.
 374201	I would like to get into my account.
 374270	Checking balance.
 374289	Automated.
 374256	I have a problem. ** hello.
 374244	Want to reset my online password.
-374233	   Check my balance.
-374296	   Yes actually can you tell me some of my recent transactions?
+374233	 Check my balance.
+374296	 Yes actually can you tell me some of my recent transactions?
 374205	I'd like to know my current balance.
 374278	Balance.
 374232	Check balances. Check deposits.
@@ -21,25 +21,25 @@
 374278	Recent deposits.
 374252	No thank you.
 374293	I want to check my account.
-374220	Balance.  
+374220	Balance. 
 374200	Need help with something else.
-374287	Automatic.   
+374287	Automatic. 
 374241	Stop a payment.
 374242	Yeah.
 374243	Checking account.
-374244	I wanna find*    find out my checking balance and debits. <$Hey$>. **.
+374244	I wanna find* find out my checking balance and debits. <$Hey$>. **.
 374245	Account balance.
 374246	I need my balance.
 374247	Yes.
 374248	Check my balance.
 374249	Account balance.
-374250	Yes hello.   
+374250	Yes hello. 
 374256	Balance.
-374286	No, I ** I don't need her help. I came here to check* check my account    by myself.
+374286	No, I ** I don't need her help. I came here to check* check my account by myself.
 374201	Virtual agent. No.
 374264	Yes.
-374295	   Checking balance.
+374295	 Checking balance.
 374288	
 374200	Agent*. Speak to an agent.
-374212	   Account information.
-374213	   Okay I'm looking.       Okay* the* account* number* on* my* checking* is*    eight.
+374212	 Account information.
+374213	 Okay I'm looking. Okay* the* account* number* on* my* checking* is* eight.
